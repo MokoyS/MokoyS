@@ -15,7 +15,7 @@
 📈 *Language that im learning :*
 
 [![HTML](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MokoyS&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 🔍️  *CONTACT :* Maximelebas03@gmail.com
